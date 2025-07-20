@@ -41,6 +41,7 @@ A clean, research-focused website built with Next.js 14, featuring minimalist de
 - **Animations**: Framer Motion
 - **Icons**: Lucide React
 - **Fonts**: Inter & JetBrains Mono (Google Fonts)
+- **Analytics**: Vercel Analytics & Speed Insights
 - **Deployment Ready**: Optimized for Vercel/Netlify
 
 ## 🚀 Getting Started
